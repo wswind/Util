@@ -1,7 +1,7 @@
 /bin
 /src/Util/obj
 /test/Util.Tests/obj
-/.vs
+.vs/
 obj/
 bin/
 BenchmarkDotNet.Artifacts/
